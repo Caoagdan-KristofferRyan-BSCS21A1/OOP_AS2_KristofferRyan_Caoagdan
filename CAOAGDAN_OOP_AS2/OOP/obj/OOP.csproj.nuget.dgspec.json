@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jr122\\Downloads\\OOP_AS2_Leo_Marc_Zozobrado-main\\OOP_AS2_Leo_Marc_Zozobrado-main\\OOP\\OOP.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jr122\\Downloads\\OOP_AS2_Leo_Marc_Zozobrado-main\\OOP_AS2_Leo_Marc_Zozobrado-main\\OOP\\OOP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jr122\\Downloads\\OOP_AS2_Leo_Marc_Zozobrado-main\\OOP_AS2_Leo_Marc_Zozobrado-main\\OOP\\OOP.csproj",
+        "projectName": "OOP",
+        "projectPath": "C:\\Users\\jr122\\Downloads\\OOP_AS2_Leo_Marc_Zozobrado-main\\OOP_AS2_Leo_Marc_Zozobrado-main\\OOP\\OOP.csproj",
+        "packagesPath": "C:\\Users\\jr122\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jr122\\Downloads\\OOP_AS2_Leo_Marc_Zozobrado-main\\OOP_AS2_Leo_Marc_Zozobrado-main\\OOP\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jr122\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.24, 3.1.24]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
